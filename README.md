@@ -18,5 +18,4 @@ O objetivo deste projeto foi aplicar os conceitos fundamentais de estruturação
 
 ## 🔗 Veja o projeto na prática
 Você pode acessar o quiz rodando diretamente no seu navegador através do link abaixo:
-
- 
+https://ricardo-viniicius.github.io/meu-primeiro-projeto/
